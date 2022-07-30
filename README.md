@@ -1,2 +1,2 @@
-# Lock-Screen-
+# Lock-Screen
 Lock Screen
